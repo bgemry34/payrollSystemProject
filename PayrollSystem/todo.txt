@@ -1,0 +1,25 @@
+Number of employee – at least 50 employees
+Types of employees
+Regular, Contractual, Part-time, Consultant)
+Timekeeping system
+Cut-of period
+ frequency of payroll period
+
+
+Number of allowable absences/leaves, deductions due to late, 
+absences, undertime, cash advances, etc)
+
+Correctness and complexity of computations
+
+Payslip generation
+Payroll summary report generation
+Monthly, Annually
+Existence of table of variables 
+Tax, SSS, Pag-ibig, Health, Loans
+
+Reports to other agencies 
+Tax, SSS, Pag-ibig, Health, Loans
+Valid test data – 50 employees
+
+
+
